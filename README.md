@@ -4,8 +4,9 @@
 Nombre | Descripción
 -------|--------
 [Ejercicio 1](https://docs.google.com/document/d/1dlVUJuzfQTONVz5xtFPL2qg-rBDrMF9NC45Dw1ynX_g/edit) |  Actividad de presentación de la asignatura
+[Ejercicio 2](https://docs.google.com/document/d/1nujAuFxPMMbzd41sCeLrsj1H_BdG7FqnDU0pR86ydYQ/edit) |  Servidor Web Simple con Python
 
-## Tema 1 - Scripst
+## Tema 1 - Scripts
 Nombre | Descripción
 -------|--------
 [Ejercicio 1](https://docs.google.com/document/d/1mle9a06Q4ef6UAageLSLrV1Y9GAFbtef5SN421QYYVs/edit) | Añadir y comprobar puerto
