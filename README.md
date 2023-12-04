@@ -16,4 +16,4 @@ Nombre | Descripción
 [Directivas 2](https://docs.google.com/document/d/1w5Rdsvie5loSudVcSDsG5x6CMBxPEghEcv2sCzWV1Z0/edit) | Directicas Basicas 2
 
 ## Proyecto Primer Trimestre
-[Servidores Web](https://docs.google.com/document/d/1MaFwWOL2jMV3N6bHw9szhvrQBarCxxc3JfDfdXaSvKM/edit)
+[Servidores Web](https://docs.google.com/document/d/e/2PACX-1vSXI-LOzKPXcU36u8q3uY_QvFZAGg4z13euaXFylkQ4iyEOy33eS2Wp0tJPp9gP3abWzbWaRChTSPne/pub)
