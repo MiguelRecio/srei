@@ -3,7 +3,7 @@
 ## Tema 0 - Introducción
 Nombre | Descripción
 -------|--------
-[Ejercicio 1](https://docs.google.com/document/d/1dlVUJuzfQTONVz5xtFPL2qg-rBDrMF9NC45Dw1ynX_g/edit) |  Actividad de presentación de la asignatura
+[Ejercicio 1](https://docs.google.com/document/d/e/2PACX-1vSekjG_9NVL0lasqt1DbrtyoVtSfLPx--irG603qSL3Fpl2VmwBtZAgyarSE2efIsMK9RY5r8koS0f6/pub) |  Actividad de presentación de la asignatura
 [Ejercicio 2](https://docs.google.com/document/d/e/2PACX-1vSfOqsyoLDcm5gbON-cm3tFBQnd7pLQG2tRS5lRrs5d43HfQaK_XjARO4RWNfdI-ozK6h5TyIWRucqA/pub) |  Servidor Web Simple con Python
 
 ## Tema 1 - Scripts
